@@ -1,0 +1,6 @@
+D:\Project\ОПАМ\Lab 19\UnitShylo\UnitShylo\bin\Debug\UnitShylo.dll
+D:\Project\ОПАМ\Lab 19\UnitShylo\UnitShylo\bin\Debug\UnitShylo.pdb
+D:\Project\ОПАМ\Lab 19\UnitShylo\UnitShylo\obj\Debug\UnitShylo.csproj.AssemblyReference.cache
+D:\Project\ОПАМ\Lab 19\UnitShylo\UnitShylo\obj\Debug\UnitShylo.csproj.CoreCompileInputs.cache
+D:\Project\ОПАМ\Lab 19\UnitShylo\UnitShylo\obj\Debug\UnitShylo.dll
+D:\Project\ОПАМ\Lab 19\UnitShylo\UnitShylo\obj\Debug\UnitShylo.pdb

@@ -1,0 +1,7 @@
+D:\Project\ОПАМ\Lab18\ConsoleApp1\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+D:\Project\ОПАМ\Lab18\ConsoleApp1\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+D:\Project\ОПАМ\Lab18\ConsoleApp1\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+D:\Project\ОПАМ\Lab18\ConsoleApp1\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+D:\Project\ОПАМ\Lab18\ConsoleApp1\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\Project\ОПАМ\Lab18\ConsoleApp1\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+D:\Project\ОПАМ\Lab18\ConsoleApp1\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
